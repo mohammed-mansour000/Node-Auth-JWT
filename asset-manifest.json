@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Node-Auth-JWT/static/css/main.1632d6df.chunk.css",
-    "main.js": "/Node-Auth-JWT/static/js/main.7be951b5.chunk.js",
-    "main.js.map": "/Node-Auth-JWT/static/js/main.7be951b5.chunk.js.map",
+    "main.js": "/Node-Auth-JWT/static/js/main.a63632f9.chunk.js",
+    "main.js.map": "/Node-Auth-JWT/static/js/main.a63632f9.chunk.js.map",
     "runtime-main.js": "/Node-Auth-JWT/static/js/runtime-main.782e2f0a.js",
     "runtime-main.js.map": "/Node-Auth-JWT/static/js/runtime-main.782e2f0a.js.map",
     "static/js/2.3b7c8456.chunk.js": "/Node-Auth-JWT/static/js/2.3b7c8456.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.782e2f0a.js",
     "static/js/2.3b7c8456.chunk.js",
     "static/css/main.1632d6df.chunk.css",
-    "static/js/main.7be951b5.chunk.js"
+    "static/js/main.a63632f9.chunk.js"
   ]
 }
